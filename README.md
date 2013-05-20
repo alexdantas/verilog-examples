@@ -2,6 +2,9 @@
 
 These are simple Verilog "programs" for beginners.
 
+They're ordered by difficulty level, being 001 the easiest for beginners.
+
+
 ## Verilog tutorials
 
 Some tutorials I recommend
